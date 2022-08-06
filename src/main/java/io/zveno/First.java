@@ -5,5 +5,7 @@ public class First {
         Car car1 = new Car(50.0,"Toyota");
         car1.FillTheCar();
         car1.RepairsCenterToyota();
+        TestWithIntDouble test1 = new TestWithIntDouble();
+        test1.MaxInteger();
     }
 }
