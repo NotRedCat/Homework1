@@ -6,6 +6,6 @@ public class First {
         car1.FillTheCar();
         car1.RepairsCenterToyota();
         TestWithIntDouble test1 = new TestWithIntDouble();
-        test1.MaxInteger();
+        test1.MaxIntegerOrDouble();
     }
 }
